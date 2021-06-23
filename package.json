@@ -15,7 +15,7 @@
     "typeorm": "0.2.34"
   },
   "scripts": {
-    "start": "tsc;node build/app",
+    "start": "tsc ; node build/app",
     "start:dev": "ts-node-dev src/app.ts"
   }
 }
