@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "node build/src/app",
+    "start": "node build/app",
     "start:dev": "PORT=3000 ts-node-dev src/app.ts"
   }
 }
